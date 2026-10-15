@@ -119,5 +119,3 @@ Open it using Power BI Desktop to explore the dashboard and its available filter
 - Refine Power BI relationships and interactive filtering.
 - Add dashboard screenshots and documented business recommendations.
 
-## Author
-Created as a data analytics and machine learning portfolio project.
